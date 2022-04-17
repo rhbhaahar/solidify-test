@@ -1,0 +1,11 @@
+{
+  "name": "solidify_test_application",
+  "version": "1.0.0",
+  "description": "Smart Home Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alexei Merzliakov <dev23lx@gmail.com>",
+  "license": "MIT"
+}
